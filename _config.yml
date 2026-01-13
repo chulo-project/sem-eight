@@ -3,3 +3,4 @@ description: Comprehensive study notes and solutions for AD, GIS, and ICC (8th S
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
