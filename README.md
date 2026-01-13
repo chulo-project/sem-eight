@@ -1,0 +1,53 @@
+# Exam Preparation Materials (AD, GIS, ICC)
+
+Comprehensive study materials, solved past papers, and detailed chapter notes for the 7th Semester CSIT Exams.
+
+## 📂 Subjects Covered
+
+### 1. [Advanced Database (AD)](./AD/Study-Guide.md)
+
+- **Code:** CSC461
+- **Content:** Enhanced ER, Object DB, Query Optimization, Distributed DB, NoSQL, BigData.
+- [View Master Study Guide](./AD/Study-Guide.md)
+
+### 2. [Geographical Information System (GIS)](./GIS/Study-Guide.md)
+
+- **Code:** CSC468
+- **Content:** Digital Mapping, Spatial Analysis, Remote Sensing, GPS, Open GIS.
+- [View Master Study Guide](./GIS/Study-Guide.md)
+
+### 3. [Introduction to Cloud Computing (ICC)](./ICC/Study-Guide.md)
+
+- **Code:** CSC467
+- **Content:** Cloud Architecture, Virtualization, Security, AWS/Azure Platforms, MapReduce.
+- [View Master Study Guide](./ICC/Study-Guide.md)
+
+---
+
+## 🚀 Repository Structure
+
+```
+├── AD/                  # Advanced Database
+│   ├── chapters/        # Detailed notes for all 5 units
+│   ├── yearly-questions/# Solved Board Questions (2079-2081)
+│   ├── tu-provided/     # Model Question Solutions
+│   └── students-asked/  # Extra Practice Questions
+├── GIS/                 # Geographical Information System
+│   ├── chapters/        # Detailed notes for all 7 units
+│   ├── yearly-questions/# Solved Board Questions (2081-2082)
+│   └── ...
+└── ICC/                 # Cloud Computing
+    ├── chapters/        # Detailed notes for all 6 units
+    ├── yearly-questions/# Solved Board Questions (2079-2082)
+    └── ...
+```
+
+## 📖 How to Use
+
+1. Navigate to the subject folder of your choice.
+2. Open the `Study-Guide.md` file (linked above).
+3. Use the links in the Study Guide to access specific chapters or solutions.
+
+---
+
+_Generated for exam revision purposes._
