@@ -4,19 +4,19 @@ Comprehensive study materials, solved past papers, and detailed chapter notes fo
 
 ## 📂 Subjects Covered
 
-### 1. [Advanced Database (AD)](./AD/Study-Guide.md)
+### 1. [Advanced Database (AD)](./AD/README.md)
 
 - **Code:** CSC461
 - **Content:** Enhanced ER, Object DB, Query Optimization, Distributed DB, NoSQL, BigData.
 - [View Master Study Guide](./AD/Study-Guide.md)
 
-### 2. [Geographical Information System (GIS)](./GIS/Study-Guide.md)
+### 2. [Geographical Information System (GIS)](./GIS/README.md)
 
 - **Code:** CSC468
 - **Content:** Digital Mapping, Spatial Analysis, Remote Sensing, GPS, Open GIS.
 - [View Master Study Guide](./GIS/Study-Guide.md)
 
-### 3. [Introduction to Cloud Computing (ICC)](./ICC/Study-Guide.md)
+### 3. [Introduction to Cloud Computing (ICC)](./ICC/README.md)
 
 - **Code:** CSC467
 - **Content:** Cloud Architecture, Virtualization, Security, AWS/Azure Platforms, MapReduce.
