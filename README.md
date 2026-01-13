@@ -1,57 +1,54 @@
----
-layout: default
----
+# sem-eight (Exam Preparation Materials)
 
-# Exam Preparation Materials (AD, GIS, ICC)
+Hosted notes + solved questions for 8th Semester CSIT exam preparation.
 
-Comprehensive study materials, solved past papers, and detailed chapter notes for the 7th Semester CSIT Exams.
+Live site:
+https://chulo-project.github.io/sem-eight/
 
-## 📂 Subjects Covered
+## What’s inside
 
-### 1. [Advanced Database (AD)](./AD/README.md)
+- **AD (CSC461)**: `./AD/`
+- **GIS (CSC468)**: `./GIS/`
+- **ICC (CSC467)**: `./ICC/`
 
-- **Code:** CSC461
-- **Content:** Enhanced ER, Object DB, Query Optimization, Distributed DB, NoSQL, BigData.
-- [View Study Guide](./AD/Study-Guide.md)
+Each subject folder contains:
 
-### 2. [Geographical Information System (GIS)](./GIS/README.md)
+- `Study-Guide.md` (table of contents / study plan)
+- `chapters/` (unit-wise notes)
+- `yearly-questions/` (board questions + solutions)
+- `tu-provided/` and/or `students-asked/` (extra materials)
 
-- **Code:** CSC468
-- **Content:** Digital Mapping, Spatial Analysis, Remote Sensing, GPS, Open GIS.
-- [View Study Guide](./GIS/Study-Guide.md)
+## Website vs GitHub README
 
-### 3. [Introduction to Cloud Computing (ICC)](./ICC/README.md)
+- **Website homepage** is generated from `index.md` (so `/sem-eight/` serves an `index.html`).
+- This `README.md` is intended for GitHub viewers (project overview + dev/deploy notes).
 
-- **Code:** CSC467
-- **Content:** Cloud Architecture, Virtualization, Security, AWS/Azure Platforms, MapReduce.
-- [View Study Guide](./ICC/Study-Guide.md)
+## Local development
 
----
+If you want to preview the site locally:
 
-## 🚀 Repository Structure
+1. Install Jekyll.
+2. Run:
 
-```
-├── AD/                  # Advanced Database
-│   ├── chapters/        # Detailed notes for all 5 units
-│   ├── yearly-questions/# Solved Board Questions (2079-2081)
-│   ├── tu-provided/     # Model Question Solutions
-│   └── students-asked/  # Extra Practice Questions
-├── GIS/                 # Geographical Information System
-│   ├── chapters/        # Detailed notes for all 7 units
-│   ├── yearly-questions/# Solved Board Questions (2081-2082)
-│   └── ...
-└── ICC/                 # Cloud Computing
-    ├── chapters/        # Detailed notes for all 6 units
-    ├── yearly-questions/# Solved Board Questions (2079-2082)
-    └── ...
+```bash
+jekyll serve
 ```
 
-## 📖 How to Use
+Note:
 
-1. Open the `Study-Guide.md` file (linked above) to view study plan.
-2. Navigate to the subject folder of your choice (AD, GIS, or ICC) to view the table of contents.
-3. Use the links in the table of contents to access specific chapters or solutions.
+- This repo uses `baseurl: /sem-eight`. Locally, open the site at:
+  `http://127.0.0.1:4000/sem-eight/`
 
----
+## Deployment
 
-_Generated for exam revision purposes._
+Deployment happens via GitHub Actions (`.github/workflows/deploy.yml`) using GitHub Pages.
+
+Do not commit `_site/` (it’s generated during the Pages build).
+
+## License
+
+MIT
+
+## Author
+
+Asmin Bhattarai
