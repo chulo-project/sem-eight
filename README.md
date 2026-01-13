@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Exam Preparation Materials (AD, GIS, ICC)
 
 Comprehensive study materials, solved past papers, and detailed chapter notes for the 7th Semester CSIT Exams.

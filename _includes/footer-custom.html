@@ -5,6 +5,7 @@
     window.addEventListener("load", function () {
       navigator.serviceWorker.register(
         "{{ '/service-worker.js' | relative_url }}",
+        { scope: "{{ '/' | relative_url }}" },
       );
     });
   })();
