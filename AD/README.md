@@ -1,4 +1,4 @@
-# Advanced Database (AD) - Master Study Guide
+# Advanced Database (AD) - Overview
 
 **Course Code:** CSC461 | **Credit Hours:** 3
 **Syllabus:** [View Official Syllabus](tu-provided/syllabus.md)

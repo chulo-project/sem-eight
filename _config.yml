@@ -1,6 +1,8 @@
 title: Exam Preparation Materials
 description: Comprehensive study notes and solutions for AD, GIS, and ICC (8th Sem CSIT)
 theme: jekyll-theme-cayman
+url: https://chulo-project.github.io
+baseurl: /sem-eight
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

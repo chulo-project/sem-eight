@@ -1,4 +1,4 @@
-# Geographical Information System (GIS) - Master Study Guide
+# Geographical Information System (GIS) - Overview
 
 **Course Code:** CSC468 | **Credit Hours:** 3
 **Syllabus:** [View Official Syllabus](tu-provided/syllabus.md)

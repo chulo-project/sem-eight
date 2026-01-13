@@ -1,4 +1,4 @@
-# Introduction to Cloud Computing (ICC) - Master Study Guide
+# Introduction to Cloud Computing (ICC) - Overview
 
 **Course Code:** CSC467 | **Credit Hours:** 3
 **Syllabus:** [View Official Syllabus](tu-provided/syllabus.md)

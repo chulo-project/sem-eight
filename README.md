@@ -8,19 +8,19 @@ Comprehensive study materials, solved past papers, and detailed chapter notes fo
 
 - **Code:** CSC461
 - **Content:** Enhanced ER, Object DB, Query Optimization, Distributed DB, NoSQL, BigData.
-- [View Master Study Guide](./AD/Study-Guide.md)
+- [View Study Guide](./AD/Study-Guide.md)
 
 ### 2. [Geographical Information System (GIS)](./GIS/README.md)
 
 - **Code:** CSC468
 - **Content:** Digital Mapping, Spatial Analysis, Remote Sensing, GPS, Open GIS.
-- [View Master Study Guide](./GIS/Study-Guide.md)
+- [View Study Guide](./GIS/Study-Guide.md)
 
 ### 3. [Introduction to Cloud Computing (ICC)](./ICC/README.md)
 
 - **Code:** CSC467
 - **Content:** Cloud Architecture, Virtualization, Security, AWS/Azure Platforms, MapReduce.
-- [View Master Study Guide](./ICC/Study-Guide.md)
+- [View Study Guide](./ICC/Study-Guide.md)
 
 ---
 
@@ -44,9 +44,9 @@ Comprehensive study materials, solved past papers, and detailed chapter notes fo
 
 ## 📖 How to Use
 
-1. Navigate to the subject folder of your choice.
-2. Open the `Study-Guide.md` file (linked above).
-3. Use the links in the Study Guide to access specific chapters or solutions.
+1. Open the `Study-Guide.md` file (linked above) to view study plan.
+2. Navigate to the subject folder of your choice (AD, GIS, or ICC) to view the table of contents.
+3. Use the links in the table of contents to access specific chapters or solutions.
 
 ---
 
